@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersetch",
+        "uuid": 4273800,
+        "checksum": "krzbdl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
